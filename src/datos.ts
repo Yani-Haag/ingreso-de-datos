@@ -7,4 +7,4 @@ btnEnv.addEventListener("click",() => {
 
 rotulo.innerHTML = "Ingrese la altura de la persona: ";
 
-f
+
